@@ -10,10 +10,10 @@
 ##
 
 
-<div>
+<div align="center">
   <a href="https://github.com/AdriellYYamaoto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdriellYYamaoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriellYYamaoto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em"width="500" src="https://github-readme-stats.vercel.app/api?username=AdriellYYamaoto&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" width= 500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriellYYamaoto&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="dry-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
