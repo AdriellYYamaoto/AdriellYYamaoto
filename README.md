@@ -4,7 +4,7 @@
 - ⚡  Estou sempre estudando.
 - 🤔  Procuro por troca de conhecimento.
 - 😄 Pronouns:ela/ dela
--->
+
 ##
 
 
