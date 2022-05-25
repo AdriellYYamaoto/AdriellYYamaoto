@@ -1,12 +1,12 @@
 ### Olá sou Adrielly Yamaoto 👋
--->
+
 - 🔭 Gosto de trabalhar com front-end.
 - ⚡  Estou sempre estudando.
 - 🤔  Procuro por troca de conhecimento.
 - 😄 Pronouns:ela/ dela
 -->
 ##
--->
+
 
 <div align="center">
   <a href="https://github.com/AdriellYYamaoto">
