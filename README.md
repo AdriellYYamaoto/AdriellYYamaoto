@@ -1,9 +1,11 @@
 ### Olá sou Adrielly Yamaoto 👋
 
+ <img align="left" alt="dry-pic" height="150" style="border-radius:10px;" src="https://drive.google.com/file/d/1ChXsBzRBHtsldzq1F_4Ed-CfflTqIuc3/view?usp=sharing">
+
 - 🔭 Gosto de trabalhar com front-end.
 - ⚡  Estou sempre estudando.
 - 🤔  Procuro por troca de conhecimento.
-- 😄 Pronouns:ela/ dela
+- 😄 Pronouns:ela/ dela.
 
 ##
 
@@ -18,6 +20,7 @@
   <img align="center" alt="dry-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dry-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+  
   
   ##
  
