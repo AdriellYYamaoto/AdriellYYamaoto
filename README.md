@@ -1,11 +1,11 @@
 ### Olá sou Adrielly Yamaoto 👋
+ <img align="left" alt="dry-pic" height="150" style="border-radius:10px;"
+      src="https://cdn.discordapp.com/attachments/825072196124278804/979070492445134988/download20220503175925.png">
 
- <img align="left" alt="dry-pic" height="150" style="border-radius:10px;" src="https://drive.google.com/file/d/1ChXsBzRBHtsldzq1F_4Ed-CfflTqIuc3/view?usp=sharing">
-
-- 🔭 Gosto de trabalhar com front-end.
-- ⚡  Estou sempre estudando.
-- 🤔  Procuro por troca de conhecimento.
-- 😄 Pronouns:ela/ dela.
+ 🔭 Gosto de trabalhar com front-end.<br>
+ ⚡  Estou sempre estudando.<br>
+ 🤔  Procuro por troca de conhecimento.<br>
+ 😄 Pronouns:ela/ dela.
 
 ##
 
