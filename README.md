@@ -3,7 +3,7 @@
       src="https://cdn.discordapp.com/attachments/825072196124278804/979070492445134988/download20220503175925.png">
 
 <p> Sou apaixonada por Desenvolvimento web 😺 </p>
-<p> Gosto de programar em javascript e Html, Design Ux e Ui.</p>
+<p> Gosto de programar em javascript e Html, Design Ux e Ui.</p> <br>
 
 ##
 
