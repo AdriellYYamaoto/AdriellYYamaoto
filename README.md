@@ -2,10 +2,8 @@
  <img align="left" alt="dry-pic" height="150" style="border-radius:05px;"
       src="https://cdn.discordapp.com/attachments/825072196124278804/979070492445134988/download20220503175925.png">
 
- 🔭 Gosto de trabalhar com front-end.<br>
- ⚡  Estou sempre estudando.<br>
- 🤔  Procuro por troca de conhecimento.<br>
- 😄 Pronouns: ela/ dela.
+<p> Sou apaixonada por Desenvolvimento web 😺 </p>
+<p> Gosto de programar em javascript e Html, Design Ux e Ui.</p>
 
 ##
 
